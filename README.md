@@ -152,6 +152,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emma009&show_icons=true&locale=en&layout=compact" alt="emma009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emma009&show_icons=true&locale=en" alt="emma009" /></p>
-
 
